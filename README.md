@@ -1,4 +1,4 @@
-# Project Title: HDB Resale Price Prediction
+# HDB Resale Price Prediction
 
 ## Overview:
 This project aims to address the competitive landscape in the Singapore property market by providing a data-driven solution to predict the resale prices of HDB flats. By leveraging machine learning models, the tool assists property agents with more accurate pricing strategies, enabling them to better serve their clients in a fast-evolving market.
